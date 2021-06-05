@@ -3,7 +3,7 @@
 
 ![GIF](https://i.imgflip.com/5c80fb.gif)
 ## HOW TO USE 📋
-First you need to connect via sftp or ftp and send the file there. <br>
+First you need to connect via sftp or ftp and move the file there. <br>
 Later you have to do this:
 ### GIVE EXECUTE PERMISSIONS ☄️
 ```

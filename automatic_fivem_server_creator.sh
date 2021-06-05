@@ -1,8 +1,8 @@
 #!/bin/bash
 # AUTHOR: AIRGOLD3#7008
-# This file is part of Fivem Linux Server Creator
+# This file is part of Automatic Fivem Server Creator
 # Copyright (C) 2020, Airgold37008
-#    Fivem Linux Server Creator ( is free software: you can redistribute it and/or modify
+#    Automatic Fivem Server Creator ( is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
 #    the Free Software Foundation, either version 3 of the License, or
 #    (at your option) any later version.
@@ -11,7 +11,7 @@
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 #    GNU General Public License for more details.
 #    You should have received a copy of the GNU General Public License
-#    along with Fivem Linux Server Creator.  If not, see <https://www.gnu.org/licenses/>.
+#    along with Automatic Fivem Server Creator.  If not, see <https://www.gnu.org/licenses/>.
 
 #COLORS
 # Reset

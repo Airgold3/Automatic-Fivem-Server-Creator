@@ -3,7 +3,7 @@
 
 ### HOW TO USE 📋
 First you need to connect via sftp or ftp and and take the file there. <br>
-Give execute permissions
+### GIVE EXECUTE PERMISSIONS
 ```
 chmod u+x automatic_fivem_server_creator.sh
 ```

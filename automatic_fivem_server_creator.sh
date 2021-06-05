@@ -51,12 +51,6 @@ if [ $option = "Y" -o $option = "y" ]; then
     echo -e "$Yellow \n Tell me the password for the phpmyadmin $Color_Off"
     read pwd
     sudo mysql -u root -p$pwd mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '$pwd';"
-        #sudo mysql -u root -p$pwd -e 'MYSQL'
-        #USE mysql;
-        #echo -e "$Yellow \n Put the password por the phpmyadmin $Color_Off"
-        #read password
-        #ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '$pwd';
-        #MYSQL
 elif [ $option = "N" -o $option = "n" ]; then
     :
 else 

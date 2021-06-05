@@ -7,7 +7,7 @@ Give execute permissions
 ```
 chmod u+x automatic_fivem_server_creator.sh
 ```
-### Run it!
+### RUN IT! 
 ```
 ./automatic_fivem_server_creator.sh
 ```

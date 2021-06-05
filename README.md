@@ -3,11 +3,11 @@
 
 ### HOW TO USE 📋
 First you need to connect via sftp or ftp and and take the file there. <br>
-### GIVE EXECUTE PERMISSIONS
+## GIVE EXECUTE PERMISSIONS
 ```
 chmod u+x automatic_fivem_server_creator.sh
 ```
-### RUN IT! 🚀 
+## RUN IT! 🚀 
 ```
 ./automatic_fivem_server_creator.sh
 ```

@@ -4,7 +4,7 @@
 ## HOW TO USE 📋
 First you need to connect via sftp or ftp and send the file there. <br>
 Later you have to do this:
-### GIVE EXECUTE PERMISSIONS
+### GIVE EXECUTE PERMISSIONS ☄️
 ```
 chmod u+x automatic_fivem_server_creator.sh
 ```

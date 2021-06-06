@@ -3,7 +3,16 @@
 
 ![GIF](https://i.imgflip.com/5c80fb.gif)
 ## HOW TO USE 📋
-First you need to connect via sftp or ftp and move the file there. <br>
+First you need to connect via sftp or ftp and move the file there. or 
+<br>
+Download git clone
+```
+sudo apt install git
+```
+And download with git
+```
+sudo gitclone https://github.com/Airgold3/Automatic-Fivem-Server-Creator/
+```
 Later you have to do this:
 ### GIVE EXECUTE PERMISSIONS ☄️
 ```

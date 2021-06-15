@@ -11,7 +11,7 @@ sudo apt install git
 ```
 And download with git
 ```
-sudo gitclone https://github.com/Airgold3/Automatic-Fivem-Server-Creator/
+sudo git clone https://github.com/Airgold3/Automatic-Fivem-Server-Creator/
 ```
 Later you have to do this:
 ### GIVE EXECUTE PERMISSIONS ☄️

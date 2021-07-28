@@ -23,7 +23,7 @@ chmod u+x automatic_fivem_server_creator.sh
 ./automatic_fivem_server_creator.sh
 ```
 
-### LICENSE
+## LICENSE
 MIT License
 
 Copyright (c) 2021 Airgold3

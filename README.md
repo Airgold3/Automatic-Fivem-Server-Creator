@@ -3,7 +3,7 @@
 
 ![GIF](https://i.imgflip.com/5c80fb.gif)
 ## HOW TO USE 📋
-First you need to connect via sftp or ftp and move the file there. or 
+First you need to connect via sftp or ftp and move the file there or do it manually
 <br>
 ```
 # Download git clone

@@ -9,7 +9,7 @@ First you need to connect via sftp or ftp and move the file there or do it manua
 # Download git clone
 $ sudo apt install git
 
-#And download with git
+# And download with git
 $ sudo git clone https://github.com/Airgold3/Automatic-Fivem-Server-Creator/
 
 # GIVE EXECUTE PERMISSIONS ☄️

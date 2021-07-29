@@ -5,22 +5,18 @@
 ## HOW TO USE 📋
 First you need to connect via sftp or ftp and move the file there. or 
 <br>
-Download git clone
 ```
-sudo apt install git
-```
-And download with git
-```
-sudo git clone https://github.com/Airgold3/Automatic-Fivem-Server-Creator/
-```
-Later you have to do this:
-### GIVE EXECUTE PERMISSIONS ☄️
-```
-chmod u+x automatic_fivem_server_creator.sh
-```
-### RUN IT! 🚀 
-```
-./automatic_fivem_server_creator.sh
+# Download git clone
+$ sudo apt install git
+
+#And download with git
+$ sudo git clone https://github.com/Airgold3/Automatic-Fivem-Server-Creator/
+
+# GIVE EXECUTE PERMISSIONS ☄️
+$ chmod u+x automatic_fivem_server_creator.sh
+
+#RUN IT! 🚀 
+$ ./automatic_fivem_server_creator.sh
 ```
 
 ## LICENSE

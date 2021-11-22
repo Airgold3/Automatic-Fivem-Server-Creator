@@ -1,7 +1,7 @@
 # Automatic-Fivem-Server-Creator (LINUX)
  Automatic-Fivem-Server-Creator is a script that automatically setup your fivem server for Debian / Ubuntu (Linux) based servers.
 
-![GIF](https://i.imgflip.com/5c80fb.gif)
+![GIF](https://im4.ezgif.com/tmp/ezgif-4-094518196f5d.gif)
 ## HOW TO USE 📚
 First you need to connect via sftp or ftp and move the file there or do it manually
 <br>
@@ -16,7 +16,7 @@ $ sudo git clone https://github.com/Airgold3/Automatic-Fivem-Server-Creator/
 $ chmod u+x automatic_fivem_server_creator.sh
 
 # RUN IT! 🚀 
-$ ./automatic_fivem_server_creator.sh
+$ sudo ./automatic_fivem_server_creator.sh
 ```
 
 ## LICENSE 📋 

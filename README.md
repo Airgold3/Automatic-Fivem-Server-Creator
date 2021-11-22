@@ -13,10 +13,10 @@ $ sudo apt install git
 $ sudo git clone https://github.com/Airgold3/Automatic-Fivem-Server-Creator/
 
 # GIVE EXECUTE PERMISSIONS ☄️
-$ chmod u+x automatic_fivem_server_creator.sh
+$ chmod +x automatic_fivem_server_creatorv2.sh
 
 # RUN IT! 🚀 
-$ sudo ./automatic_fivem_server_creator.sh
+$ sudo ./automatic_fivem_server_creatorv2.sh
 ```
 
 ## LICENSE 📋 

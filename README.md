@@ -5,6 +5,11 @@
 ## HOW TO USE 📚
 First you need to connect via sftp or ftp and move the file there or do it manually
 <br>
+<div align="center">
+  
+<img src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo="> <br> 
+  
+</div>
 ```
 # Download git clone
 $ sudo apt install git

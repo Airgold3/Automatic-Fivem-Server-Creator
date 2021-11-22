@@ -7,7 +7,7 @@
 ## CHARACTERISTICS 🔧
 <div align="center">
   
-<img src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo="> 
+<img src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/author-airgold3-blue?logo=github&style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo="> 
 </div>
 
 ## HOW TO USE 📚

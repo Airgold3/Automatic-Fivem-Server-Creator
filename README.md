@@ -2,7 +2,7 @@
  Automatic-Fivem-Server-Creator is a script that automatically setup your fivem server for Debian / Ubuntu (Linux) based servers. 
  
  
-![GIF](https://im2.ezgif.com/tmp/ezgif-2-9e90fd421207.gif)
+![GIF](https://user-images.githubusercontent.com/62146446/143092545-65429979-d8d8-4478-bb0e-3b302b015882.gif)
 
 <br>
 <div align="center">

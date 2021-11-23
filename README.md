@@ -7,7 +7,7 @@ Automatic-Fivem-Server-Creator es un script que configura automáticamente su se
 <br>
 <div align="center">
   
-<img src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/author-airgold3-blue?logo=github&style=for-the-badge"> <img src="https://img.shields.io/badge/Licencia-MIT-brightgreen?style=for-the-badge&logo="> 
+<img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/Autor-airgold3-blue?logo=github&style=for-the-badge"> <img src="https://img.shields.io/badge/Licencia-MIT-brightgreen?style=for-the-badge&logo="> 
 </div>
 
 ## CÓMO UTILIZAR 📚

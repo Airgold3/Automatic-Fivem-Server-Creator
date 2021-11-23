@@ -1,5 +1,5 @@
 # Automatic-Fivem-Server-Creator (LINUX)
- Automatic-Fivem-Server-Creator is a script that automatically setup your fivem server for Debian / Ubuntu (Linux) based servers. 
+Automatic-Fivem-Server-Creator es un script que configura automáticamente su servidor fivem para servidores basados en Debian / Ubuntu (Linux).
  
  
 ![GIF](https://user-images.githubusercontent.com/62146446/143092545-65429979-d8d8-4478-bb0e-3b302b015882.gif)
@@ -7,27 +7,27 @@
 <br>
 <div align="center">
   
-<img src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/author-airgold3-blue?logo=github&style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo="> 
+<img src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/author-airgold3-blue?logo=github&style=for-the-badge"> <img src="https://img.shields.io/badge/Licencia-MIT-brightgreen?style=for-the-badge&logo="> 
 </div>
 
-## HOW TO USE 📚
-First you need to connect via sftp or ftp and move the file there or do it manually
+## CÓMO UTILIZAR 📚
+Primero debe conectarse a través de sftp o ftp y mover el archivo allí o hacerlo manualmente de la siguiente forma:
 <br>
 ```
-# Download git clone
+# Descargas git clone
 $ sudo apt install git
 
-# And download with git
+# Comienzas a clonar mi repositorio
 $ sudo git clone https://github.com/Airgold3/Automatic-Fivem-Server-Creator/
 
-# GIVE EXECUTE PERMISSIONS ☄️
+# Le das permisos de ejecución ☄️
 $ chmod +x automatic_fivem_server_creatorv2.sh
 
-# RUN IT! 🚀 
+# ¡INíCIALO! 🚀 
 $ sudo ./automatic_fivem_server_creatorv2.sh
 ```
 
-## LICENSE 📋 
+## LICENCIA 📋 
 MIT License 
 
 Copyright (c) 2021 Airgold3
